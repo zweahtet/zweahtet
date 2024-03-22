@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zweahtet
 - 👀 I’m interested in web development and machine learning.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 You can reach me on LinkedIn https://www.linkedin.com/in/zachhtet23
+- 📫 You can reach me on LinkedIn https://www.linkedin.com/in/zweahtet
 
 <!---
 zweahtet/zweahtet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
