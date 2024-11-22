@@ -1,12 +1,12 @@
 ### 👋 Hi, I'm Zwea Htet!
 
 ### 🌟 Interests
-- **Web Development:** Crafting dynamic, user-friendly web apps.
-- **Machine Learning:** Creating intelligent systems with data.
-- **Hackathons:** Competing, learning, and innovating under pressure.
+- **Web Development:** Full stack but not pretty frontend :(
+- **Machine Learning:** Not an expert!
+- **Hackathons:** Learning, meeting new people, and free food and merch!
 
 ### 📫 Let's Connect!
-Reach out on [LinkedIn](https://www.linkedin.com/in/zweahtet) for collaborations or a tech chat!
+Reach out on [LinkedIn](https://www.linkedin.com/in/zweahtet) for collaborations or just want to chat!
 
 <!---
 zweahtet/zweahtet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
