@@ -1,12 +1,15 @@
 ### 👋 Hi, I'm Zwea Htet!
 
 ### 🌟 Interests
-- **Web Development:** Full stack but not pretty frontend :(
-- **Machine Learning:** Not an expert!
-- **Hackathons:** Learning, meeting new people, and free food and merch!
+- **Web Development**
+- **Machine Learning** 
+- **Hackathons**
+- **Startups**
+- **Soccer**
+- **Gym**
 
 ### 📫 Let's Connect!
-Reach out on [LinkedIn](https://www.linkedin.com/in/zweahtet) for collaborations or just want to chat!
+- [LinkedIn](https://www.linkedin.com/in/zweahtet)
 
 <!---
 zweahtet/zweahtet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
