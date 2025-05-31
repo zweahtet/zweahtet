@@ -1,42 +1,19 @@
 <!--
-Zwea (Zach) Htet | @zweahtet
-Ghibli Studio Anime-Inspired GitHub Profile README
+Zwea Htet | @zweahtet
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zweahtet/zweahtet/main/assets/ghibli-header.png" alt="Ghibli Forest" width="100%" />
-</p>
-
-<h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft/319/sparkles_2728.png" width="36"/>
-  Hi, I'm Zwea (Zach) Htet! 
-  <img src="https://em-content.zobj.net/source/microsoft/319/sparkles_2728.png" width="36"/>
-</h1>
-
-<p align="center">
-  <b>Full Stack Engineer | Cal Alumni Class of 2023 | Gym Rat | Building nikki - journaling and diary app</b> <br/>
-  <a href="mailto:zweazhtet@gmail.com">zweazhtet@gmail.com</a> • 
-  <a href="https://linkedin.com/in/zweahtet">LinkedIn</a> • 
-  <a href="https://github.com/zweahtet">GitHub</a>
+  <img src="https://raw.githubusercontent.com/zweahtet/zweahtet/main/assets/header.png" alt="Ghibli Forest" width="100%" />
 </p>
 
 ---
+## 🌱 A Little Bite About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zweahtet/zweahtet/main/assets/ghibli-totoro.png" alt="Totoro" width="100" />
-</p>
-
-## 🌱 About Me
-
-> “Always believe in yourself. Do this and no matter where you are, you will have nothing to fear.”  
-> — Hayao Miyazaki
-
-- 🪄 Versatile software engineer with a love for building practical, magical solutions  
-- 🏔️ Startup survivor, AI enthusiast, and lifelong learner  
-- 🦾 Architected AI agents, shipped MVPs and core features to production, and automated workflows  
+- 🪄 Versatile software engineer with interships at early-stage startups and background in computer science (class of 2023)
+- 🏔️ Exploring true self, AI generalists, and building nikki - journaling and diary app
 - 🐾 Cat fact: Cats have five toes on each front paw, but only four on each back paw!
 
-## ✨ Tech Forest
+## 👨‍💻 Tech Jungle
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,supabase,nextjs,react,fastapi,django,mongodb,postgresql,aws,docker,git" />
@@ -47,20 +24,20 @@ Ghibli Studio Anime-Inspired GitHub Profile README
 - **Web:** React, Next.js, FastAPI, Django, Flask  
 - **Cloud:** AWS, GCP, DigitalOcean  
 - **Databases:** PostgreSQL, MongoDB, Supabase, Firebase  
-- **Tools:** Docker, Git, Jira, Pytest, DRF Test Suite
+- **Tools:** Docker, Git, Jira, Pytest, DRF Test Suite, Drizzle
 
-## 🏞️ My Ghibli-Like Journey
+## 🏞️ My Experience
 
 - 🧾 **FinKeeper:** Automated financial reporting, integrated TypeScript & testing  
 - 🦉 **Daicus:** Built context-aware AI agents (LangChain, RAG, ReAct) with 92% accuracy  
 - 🐾 **Plino:** Interactive LLM summaries and evaluation frameworks  
 - 💧 **Berkeley Research:** RAG-powered chatbot for water regulation info  
 - 🛒 **Kohl’s:** Scalable ETL pipelines with Airflow & GCP  
-- 🥇 **Hackathons:** LLM data scraper (Best Use of LLM), EquiLearn (AI for Good)
+- 🥇 **Hackathons:** Data Extraction with LLM (Best Use of LLM), EquiLearn (AI for Good)
 
-## 🎬 Recent Projects
+## 🎬 My Recent Projects
 
-- **Intelligent Data Scraper:** Ghibli-style teamwork, LLM magic, and real-world impact  
+- **Dataset Generation for Research using LLM and RAG:** Research on using LLM for structured data extraction from unstructured documents and creating scalable architecture
 - **EquiLearn:** AI copilot for accessible education  
 - ...and more in my [pinned repos](https://github.com/zweahtet?tab=pinned)!
 
@@ -73,13 +50,8 @@ Ghibli Studio Anime-Inspired GitHub Profile README
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zweahtet/zweahtet/main/assets/ghibli-footer.png" alt="Ghibli Night" width="100%" />
-</p>
-
 <p align="center">
   <i>
-    “Life is a winking light in the darkness.” — The Tale of the Princess Kaguya
+     “Always believe in yourself. Do this and no matter where you are, you will have nothing to fear.” — Hayao Miyazaki
   </i>
 </p>
