@@ -3,7 +3,7 @@ Zwea Htet | @zweahtet
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zweahtet/zweahtet/main/assets/header.png" alt="Ghibli Forest" width="100%" />
+  <img src="https://raw.githubusercontent.com/zweahtet/zweahtet/main/assets/header.png" alt="Header Image" width="100%" />
 </p>
 
 ---
