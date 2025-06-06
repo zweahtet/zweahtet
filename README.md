@@ -41,6 +41,9 @@ Zwea Htet | @zweahtet
 - **EquiLearn:** AI copilot for accessible education  
 - ...and more in my [pinned repos](https://github.com/zweahtet?tab=pinned)!
 
+## 😮 My Github Stats
+![Zwea's GitHub stats](https://github-readme-stats-eta-flame-58.vercel.app/api?username=zweahtet)
+
 ## 💌 Connect with Me
 
 <p align="center">
