@@ -42,7 +42,7 @@ Zwea Htet | @zweahtet
 - ...and more in my [pinned repos](https://github.com/zweahtet?tab=pinned)!
 
 ## 😮 My Github Stats
-![Zwea's GitHub stats](https://github-readme-stats-eta-flame-58.vercel.app/api?username=zweahtet)
+![Zwea's GitHub stats](https://github-readme-stats-eta-flame-58.vercel.app/api?username=zweahtet&theme=graywhite&show_icons=true)
 
 ## 💌 Connect with Me
 
