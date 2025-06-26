@@ -7,13 +7,13 @@ Zwea Htet | @zweahtet
 </p>
 
 ---
-## 🌱 A Little Bite About Me
+## 🌱 A Little Bit About Me
 
 - 🪄 Versatile software engineer with interships at early-stage startups and background in computer science (class of 2023)
 - 🏔️ Exploring true self, AI generalists, and building nikki - journaling and diary app
 - 🐾 Cat fact: Cats have five toes on each front paw, but only four on each back paw!
 
-## 👨‍💻 Tech Jungle
+## 👨‍💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,supabase,nextjs,react,fastapi,django,mongodb,postgresql,aws,docker,git" />
@@ -44,7 +44,7 @@ Zwea Htet | @zweahtet
 ## 😮 My Github Stats
 ![Zwea's GitHub stats](https://github-readme-stats-eta-flame-58.vercel.app/api?username=zweahtet&theme=graywhite&show_icons=true)
 
-## 💌 Connect with Me
+## 💌 Connect with me (only if you feel like it)
 
 <p align="center">
   <a href="https://linkedin.com/in/zweahtet"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
